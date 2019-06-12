@@ -16,6 +16,7 @@
     "sequelize": "^5.8.9"
   },
   "devDependencies": {
+    "jshint": "^2.10.2",
     "nodemon": "^1.19.1"
   }
 }
